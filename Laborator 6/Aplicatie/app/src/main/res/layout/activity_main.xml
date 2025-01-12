@@ -1,0 +1,85 @@
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:rowCount="3"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+
+    <ImageView
+        android:id="@+id/image3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+    <ImageView
+        android:id="@+id/image4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+    <ImageView
+        android:id="@+id/image5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+    <ImageView
+        android:id="@+id/image6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+    <ImageView
+        android:id="@+id/image7"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+    <ImageView
+        android:id="@+id/image8"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+    <ImageView
+        android:id="@+id/image9"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:scaleType="centerCrop"
+        android:layout_margin="8dp" />
+
+
+</GridLayout>
